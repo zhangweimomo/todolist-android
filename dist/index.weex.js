@@ -117,7 +117,7 @@
 	if (typeof __vue_options__ === "function") {
 	  __vue_options__ = __vue_options__.options
 	}
-	__vue_options__.__file = "D:\\weexSpace\\todolistdemo\\src\\App.vue"
+	__vue_options__.__file = "D:\\weexSpace\\todolist-android\\src\\App.vue"
 	__vue_options__.render = __vue_template__.render
 	__vue_options__.staticRenderFns = __vue_template__.staticRenderFns
 	__vue_options__.style = __vue_options__.style || {}
@@ -145,7 +145,11 @@
 	//
 	//
 	//
+	//
 
+	/*ES6语法 export与export default均可用于导出常量、函数、文件、模块等，
+	你可以在其它文件或模块中通过import+(常量 | 函数 | 文件 | 模块)名的方式，将其导入，以便能够对其进行使用，
+	但在一个文件或模块中，export、import可以有多个，export default仅有一个。 */
 	exports.default = {
 	  methods: {
 	    back: function back() {
@@ -2715,7 +2719,7 @@
 	if (typeof __vue_options__ === "function") {
 	  __vue_options__ = __vue_options__.options
 	}
-	__vue_options__.__file = "D:\\weexSpace\\todolistdemo\\src\\views\\TodosView.vue"
+	__vue_options__.__file = "D:\\weexSpace\\todolist-android\\src\\views\\TodosView.vue"
 	__vue_options__.render = __vue_template__.render
 	__vue_options__.staticRenderFns = __vue_template__.staticRenderFns
 	__vue_options__.style = __vue_options__.style || {}
@@ -2877,7 +2881,7 @@
 	if (typeof __vue_options__ === "function") {
 	  __vue_options__ = __vue_options__.options
 	}
-	__vue_options__.__file = "D:\\weexSpace\\todolistdemo\\src\\components\\app-header.vue"
+	__vue_options__.__file = "D:\\weexSpace\\todolist-android\\src\\components\\app-header.vue"
 	__vue_options__.render = __vue_template__.render
 	__vue_options__.staticRenderFns = __vue_template__.staticRenderFns
 	__vue_options__.style = __vue_options__.style || {}
@@ -3044,7 +3048,7 @@
 	if (typeof __vue_options__ === "function") {
 	  __vue_options__ = __vue_options__.options
 	}
-	__vue_options__.__file = "D:\\weexSpace\\todolistdemo\\src\\components\\todo.vue"
+	__vue_options__.__file = "D:\\weexSpace\\todolist-android\\src\\components\\todo.vue"
 	__vue_options__.render = __vue_template__.render
 	__vue_options__.staticRenderFns = __vue_template__.staticRenderFns
 	__vue_options__.style = __vue_options__.style || {}
